@@ -1,0 +1,84 @@
+# Blender MTL File: 'Sketchfast 7  entry blend_One_Mesh_Version.blend'
+# Material Count: 7
+
+newmtl Arms
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.639282 0.446672 0.313258
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Bump Hand_nor.jpg
+map_Kd Arm_col.jpg
+
+newmtl Bag
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.067831 0.067831 0.067831
+Ks 0.094595 0.094595 0.094595
+Ni 1.000000
+d 1.000000
+illum 2
+map_Bump bag_nor.JPG
+map_Kd Dag_col.jpg
+map_Ks Dag_col.jpg
+
+newmtl Body_clothing_1
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.074324 0.074324 0.074324
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Body_Col.jpg
+map_Bump Body_Col.jpg
+map_Ks Body_Col.jpg
+
+newmtl Eyes
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Head_col_done.jpg
+map_Ks Head_col_done.jpg
+
+newmtl Glove
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Glove Col.JPG
+map_Bump Glove Nor.JPG
+map_Ks Glove Col.JPG
+map_Ns Glove Col.JPG
+
+newmtl Hat
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.313732 0.114989 0.060419
+Ks 0.094595 0.094595 0.094595
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Hut_Done.jpg
+map_Ks Hut_Done.jpg
+
+newmtl Head
+Ns 94.117647
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.371622 0.371622 0.371622
+Ni 1.000000
+d 1.000000
+illum 2
+map_Bump Low_Head_Nor.jpg
+map_Kd Head_col_done.jpg
+map_Ks Head_col_done.jpg
